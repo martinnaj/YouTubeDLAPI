@@ -15,6 +15,8 @@ https://ytdl.ga/handler.php?url=https://www.youtube.com/watch?v=CcCw1ggftuQ
 
 A simple way to convert Youtube videos to mp3 or mp4 using an API.
 
-Conversion time is based on the speed of YouTube servers.
+File download time is based on the speed of YouTube servers.
+
+Download link generation time is based on the speed of ytmate.guru's server(s).
 
 Please write to us for any queries or support: martin@najemi.cz
